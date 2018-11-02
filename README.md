@@ -1,2 +1,2 @@
-# Credit-Card-expenses
+# Descriptice Statistics
 Descriptive statistics fundamentals
