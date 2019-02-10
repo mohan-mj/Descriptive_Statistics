@@ -1,2 +1,2 @@
-# Descriptice Statistics
+# Descriptive Statistics
 Descriptive statistics fundamentals
